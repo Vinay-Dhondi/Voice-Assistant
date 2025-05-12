@@ -15,6 +15,10 @@ This is a simple browser-based Voice Assistant built using HTML, CSS, and JavaSc
   - "Open ChatGPT"
   - And more...
 
+## 🌐 Demo
+
+👉 [Click here to try the live demo] (https://vinay-dhondi.github.io/Voice-Assistant/)
+
 ## 🛠️ Technologies Used
 
 - HTML5
